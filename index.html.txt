@@ -1,0 +1,6 @@
+404 - Page Not Found :(
+Oops! The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+
+Visit our homepage | Check out our latest articles | Browse our FAQs
+© 2025 Elasticsearch, Logstash, and Kibana Computing. All rights reserved. 
+Contact us: support@elkcomputing.com
